@@ -8,4 +8,5 @@ O site foi desenvolvido utilizando HTML, CSS e JavaScript, e tem como objetivo a
 
 # Link: https://macedocedo.github.io/FlagTi/
 
-![image](https://github.com/macedocedo/FlagTi/assets/84480587/c3d84f42-ee7c-4246-9145-9cf643ed0a54)
+![image](https://github.com/macedocedo/FlagTi/assets/84480587/eae96889-6c8e-4555-be56-967e2a88f979)
+
