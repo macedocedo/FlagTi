@@ -7,3 +7,5 @@ O site foi desenvolvido utilizando HTML, CSS e JavaScript, e tem como objetivo a
 - Nosso objetivo com este projeto é oferecer uma plataforma de suporte ao cliente que seja fácil de usar e que atenda às necessidades tanto de empresas quanto de residências. Com uma interface limpa e intuitiva, os usuários podem acessar facilmente os recursos de suporte, solicitar assistência e obter respostas para suas perguntas de maneira rápida e eficiente.
 
 # Link: https://macedocedo.github.io/FlagTi/
+
+![image](https://github.com/macedocedo/FlagTi/assets/84480587/c3d84f42-ee7c-4246-9145-9cf643ed0a54)
